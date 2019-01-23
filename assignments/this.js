@@ -3,7 +3,7 @@
 *
 * 1. Window/Global Object Binding - "this" refers to the global object 
 * 2. Implicit Binding - "this" refers to the object it is called on
-* 3. New Binding - "this" refers to the object that is created by new
+* 3. New Binding - "this" refers to the object that is created by new constructor
 * 4. Explicit Binding - "this" refers to what apply or call is refering to
 *
 * write out a code example of each explanation above
